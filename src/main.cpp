@@ -9,6 +9,7 @@
 /* Historia wersji
     2019-1 - pierwsza wersja
     2019-2 - sieć WiFi APConfig pojawia się tylko gdy urządzenie jest konfigurowane
+    2020-1 - przejście do Platformio
 */
 
 #ifdef BME
