@@ -3,7 +3,7 @@
 
 #define USESERIAL
 #define USELED
-//#define BME
+
 #define DEBUG
 
 /* Historia wersji
@@ -13,9 +13,9 @@
 */
 
 #ifdef BME
-#define SW_VER  "BME2019-2"
+#define SW_VER  "BME2020-1"
 #else
-#define SW_VER  "BMP2019-2"
+#define SW_VER  "BMP2020-2"
 #endif
 
 #include "Config.h"
