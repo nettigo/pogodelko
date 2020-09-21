@@ -15,7 +15,7 @@
 #ifdef BME
 #define SW_VER  "BME2020-1"
 #else
-#define SW_VER  "BMP2020-2"
+#define SW_VER  "BMP2020-1"
 #endif
 
 #include "Config.h"
